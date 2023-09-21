@@ -74,6 +74,7 @@ header{
 header .user img{
     width: 25rem;
     height: 25rem;
+    object-position: 50% 10%;
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 1rem;
@@ -253,7 +254,7 @@ header .user .post{
     padding-left: 3rem;
 } 
 .education .box-container .box{ 
-    width: 30rem;
+    width: 25rem;
     min-height: 25rem;
     max-height: 25rem;
     margin: 4rem 1rem;
